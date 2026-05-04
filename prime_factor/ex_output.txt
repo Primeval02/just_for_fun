@@ -1,0 +1,65 @@
+Enter a number to find the prime factorization of: 212782838
+Checking all divisors up to 212782838. O(n):
+2 x 106391419
+2 x 106391419
+Time Taken Checking Every Divisor Up To 212782838: 0.337095 seconds or 337095 microseconds.
+
+Checking divisors up to sqrt(212782838). O(sqrt(n)):
+2 x 106391419
+2 x 106391419
+Time Taken Checking Divisors Up To 14587: 3.2389e-05 seconds or 32.389 microseconds.
+-----------------------------------------------------------------------------------------------------
+Enter a number to find the prime factorization of: 123456789101
+Checking all divisors up to 123456789101. O(n):
+9091 x 13580111
+9091 x 13580111
+Time Taken Checking Every Divisor Up To 123456789101: 170.103 seconds or 1.70103e+08 microseconds.
+
+Checking divisors up to sqrt(123456789101). O(sqrt(n)):
+9091 x 13580111
+9091 x 13580111
+Time Taken Checking Divisors Up To 351364: 2.5804e-05 seconds or 25.804 microseconds.
+-----------------------------------------------------------------------------------------------------
+Enter a number to find the prime factorization of: 342751
+Checking all divisors up to 342751. O(n):
+29 x 53 x 223
+29 x 53 x 223
+Time Taken Checking Every Divisor Up To 342751: 0.000540867 seconds or 540.867 microseconds.
+
+Checking divisors up to sqrt(342751). O(sqrt(n)):
+29 x 53 x 223
+29 x 53 x 223
+Time Taken Checking Divisors Up To 585: 5.42e-07 seconds or 0.542 microseconds.
+-----------------------------------------------------------------------------------------------------
+Enter a number to find the prime factorization of: 456
+Checking all divisors up to 456. O(n):
+2 x 2 x 2 x 3 x 19
+2^3 x 3 x 19
+Time Taken Checking Every Divisor Up To 456: 8.25e-06 seconds or 8.25 microseconds.
+
+Checking divisors up to sqrt(456). O(sqrt(n)):
+2 x 2 x 2 x 3 x 19
+2^3 x 3 x 19
+Time Taken Checking Divisors Up To 21: 4.11e-07 seconds or 0.411 microseconds.
+-----------------------------------------------------------------------------------------------------
+Enter a number to find the prime factorization of: 2048
+Checking all divisors up to 2048. O(n):
+2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2
+2^11
+Time Taken Checking Every Divisor Up To 2048: 1.0717e-05 seconds or 10.717 microseconds.
+
+Checking divisors up to sqrt(2048). O(sqrt(n)):
+2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2
+2^11
+Time Taken Checking Divisors Up To 45: 4.31e-07 seconds or 0.431 microseconds.
+-----------------------------------------------------------------------------------------------------
+Enter a number to find the prime factorization of: 32456
+Checking all divisors up to 32456. O(n):
+2 x 2 x 2 x 4057
+2^3 x 4057
+Time Taken Checking Every Divisor Up To 32456: 5.9056e-05 seconds or 59.056 microseconds.
+
+Checking divisors up to sqrt(32456). O(sqrt(n)):
+2 x 2 x 2 x 4057
+2^3 x 4057
+Time Taken Checking Divisors Up To 180: 5.99e-07 seconds or 0.599 microseconds.
